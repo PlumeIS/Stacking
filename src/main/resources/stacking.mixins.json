@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "plumeis.stacking.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "Stacking.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ContainerScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
